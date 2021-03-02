@@ -1,6 +1,6 @@
 <?php
 
-namespace MingJSHK\Newebpay;
+namespace MingJSHK\NewebPay;
 
 use Illuminate\Support\ServiceProvider;
 
