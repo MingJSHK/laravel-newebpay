@@ -1,7 +1,6 @@
 {
     "name": "mingjshk/laravel-newebpay",
     "description": "台灣藍新(智付通) Laravel API",
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
