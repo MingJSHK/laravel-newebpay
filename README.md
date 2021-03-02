@@ -17,7 +17,7 @@ Now Support Laravel 8
 ## 安裝
 
 ```
-composer require ycs77/laravel-newebpay
+composer require mingjshk/laravel-newebpay
 ```
 
 ### 註冊套件
