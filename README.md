@@ -221,7 +221,7 @@ function alterPeriodStatus()
 }
 ```
 
-### NewebPay Period - 定期定額委託內容
+### NewebPay Period - 修改定期定額委託內容
 
 ```php
 use MingJSHK\NewebPay\Facades\NewebPay;
