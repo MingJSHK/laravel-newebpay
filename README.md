@@ -2,10 +2,6 @@
 
 > Fork from [ycs77/laravel-newebpay](https://github.com/ycs77/laravel-newebpay)
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
-[![Total Downloads][ico-downloads]][link-downloads]
-
 Laravel NewebPay 為針對 Laravel 所寫的金流套件，主要實作藍新金流（原智付通）功能。
 Now Support Laravel 8
 
