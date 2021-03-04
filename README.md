@@ -2,6 +2,10 @@
 
 > Fork from [ycs77/laravel-newebpay](https://github.com/ycs77/laravel-newebpay)
 
+[![Latest Stable Version](https://poser.pugx.org/mingjshk/laravel-newebpay/v)](//packagist.org/packages/mingjshk/laravel-newebpay)
+[![Total Downloads](https://poser.pugx.org/mingjshk/laravel-newebpay/downloads)](//packagist.org/packages/mingjshk/laravel-newebpay)
+[![License](https://poser.pugx.org/mingjshk/laravel-newebpay/license)](//packagist.org/packages/mingjshk/laravel-newebpay)
+
 Laravel NewebPay 為針對 Laravel 所寫的金流套件，主要實作藍新金流（原智付通）功能。
 Now Support Laravel 8
 
@@ -217,7 +221,7 @@ function alterPeriodStatus()
 }
 ```
 
-### NewebPay Period - 定期定額委託內容
+### NewebPay Period - 修改定期定額委託內容
 
 ```php
 use MingJSHK\NewebPay\Facades\NewebPay;
