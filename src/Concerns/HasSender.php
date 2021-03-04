@@ -5,7 +5,7 @@ namespace MingJSHK\NewebPay\Concerns;
 use GuzzleHttp\Client;
 use GuzzleHttp\Handler\MockHandler;
 use GuzzleHttp\HandlerStack;
-use MingJSHK\NewebPay\Contracts\HasHttp;
+use MingJSHK\NewebPay\Contracts\Http;
 use MingJSHK\NewebPay\Contracts\Sender;
 use MingJSHK\NewebPay\Sender\Async;
 use MingJSHK\NewebPay\Sender\Sync;
